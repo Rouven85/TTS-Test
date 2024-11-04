@@ -1,0 +1,9 @@
+<button
+    onClick = "deal"
+    width = "300"
+    height = "100"
+    position = "0 200 0"
+    rotation = "180 0 0"
+    fontSize = "72">
+    Deal
+</button>
