@@ -1,5 +1,5 @@
 function deal ()
-    local mapDeck = getObjectFromGUID("8f9768")
+    local mapDeck = getObjectFromGUID("ba1965")
     local zone = getObjectFromGUID("15010e")
     --position = mapDeck.setPosition(zone.getPosition())
     local xPos = -15

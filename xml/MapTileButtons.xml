@@ -1,0 +1,42 @@
+<button
+    id = "right"
+    onClick = "deal"
+    width = "50"
+    height = "50"
+    position = "-80 0 -30"
+    fontSize = "32"
+    color = "none">
+    +
+</button>
+
+<button
+    id = "left"
+    onClick = "deal"
+    width = "50"
+    height = "50"
+    position = "80 0 -30"
+    fontSize = "32"
+    color = "none">
+    +
+</button>
+<button
+    id = "down"
+    onClick = "deal"
+    width = "50"
+    height = "50"
+    position = "0 130 -30"
+    fontSize = "32"
+    color = "none">
+    +
+</button>
+
+<button
+    id = "up"
+    onClick = "deal"
+    width = "50"
+    height = "50"
+    position = "0 -130 -30"
+    fontSize = "32"
+    color = "none">
+    +
+</button>
